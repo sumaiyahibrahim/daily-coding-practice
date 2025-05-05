@@ -21,6 +21,8 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 |-----|----------------------------|----------|----------|-----------------------------|
 | 1   | Minimum Domino Rotations   | LeetCode | Python   | [View](./day01/minimum-domino-rotations.py) |
 | 2   | Add two numbers   | LeetCode | Python   | [View](./day02/Add-two-numbers.py) |
+| 3   | Domino and Tromino Tiling   | LeetCode | Python   | [View](./day03/Domino-and-Tromino-Tiling.py) |
+
 
 
 ---
