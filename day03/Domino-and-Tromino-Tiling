@@ -2,7 +2,7 @@ class Solution(object):
     def numTilings(self, n):
         mod = int(1e9 + 7)
         
-        def dominoes(i, n, possible):
+        def dominoes(i, n, possible): 
             if i == n:
                 return 0 if possible else 1
             if i > n:
