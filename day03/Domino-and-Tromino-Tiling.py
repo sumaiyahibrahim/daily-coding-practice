@@ -12,4 +12,4 @@ class Solution(object):
             return (dominoes(i + 1, n, False) + dominoes(i + 2, n, False) + 2 * dominoes(i + 2, n, True)) % mod
         
         return dominoes(0, n, False)
- 
+  
