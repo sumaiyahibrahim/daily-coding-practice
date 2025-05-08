@@ -24,7 +24,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 3   | Domino and Tromino Tiling   | LeetCode | Python   | [View](./day03/Domino-and-Tromino-Tiling.py) |
 | 4   | Build Array from Permutation  | LeetCode | Python   | [View](./day04/Build-Array-from-Permutation.py) |
 | 5   | Longest Substring Without Reapeating Characters   | LeetCode | Python   | [View](./day05/Longest-Substring-Without-Repeating-Characters.py) |
-| 6   | Longest Substring Without Reapeating Characters   | LeetCode | Python   | [View](./day06/day06/Median-of-Two-Sorted-Arrays.py) |
+| 6   | Median of Two Sorted Arrays   | LeetCode | Python   | [View](./day06/Median-of-Two-Sorted-Arrays.py) |
 
 
 
