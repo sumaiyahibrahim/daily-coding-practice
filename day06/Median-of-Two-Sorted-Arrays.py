@@ -16,4 +16,4 @@ class Solution:
             # If the total number of elements is even, calculate the average of the two middle elements as the median.
             middle1 = merged[total // 2 - 1]
             middle2 = merged[total // 2]
-            return (float(middle1) + float(middle2)) / 2.0 
+            return (float(middle1) + float(middle2)) / 2.0  
