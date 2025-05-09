@@ -25,6 +25,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 4   | Build Array from Permutation  | LeetCode | Python   | [View](./day04/Build-Array-from-Permutation.py) |
 | 5   | Longest Substring Without Reapeating Characters   | LeetCode | Python   | [View](./day05/Longest-Substring-Without-Repeating-Characters.py) |
 | 6   | Median of Two Sorted Arrays   | LeetCode | Python   | [View](./day06/Median-of-Two-Sorted-Arrays.py) |
+| 7   | Count Number of Balanced Permutations | LeetCode | Python   | [View](./day07/Count-Number-of-Balanced-Permutations.py) |
 
 
 
