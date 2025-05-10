@@ -26,6 +26,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 5   | Longest Substring Without Reapeating Characters   | LeetCode | Python   | [View](./day05/Longest-Substring-Without-Repeating-Characters.py) |
 | 6   | Median of Two Sorted Arrays   | LeetCode | Python   | [View](./day06/Median-of-Two-Sorted-Arrays.py) |
 | 7   | Count Number of Balanced Permutations | LeetCode | Python   | [View](./day07/Count-Number-of-Balanced-Permutations.py) |
+| 8   | Minimum Equal Sum of Two Arrays After Replacing Zeros | LeetCode | Python   | [View](./day08/Minimum-Equal-Sum-of-Two-Arrays-After-Replacing-Zeros.py) |
 
 
 
