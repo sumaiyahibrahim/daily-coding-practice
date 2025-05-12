@@ -27,8 +27,8 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 6   | Median of Two Sorted Arrays   | LeetCode | Python   | [View](./day06/Median-of-Two-Sorted-Arrays.py) |
 | 7   | Count Number of Balanced Permutations | LeetCode | Python   | [View](./day07/Count-Number-of-Balanced-Permutations.py) |
 | 8   | Minimum Equal Sum of Two Arrays After Replacing Zeros | LeetCode | Python   | [View](./day08/Minimum-Equal-Sum-of-Two-Arrays-After-Replacing-Zeros.py) |
-
-
+| 9   | Three Consecutive Odds   | LeetCode | Python   | [View](./day09/Three-Consecutive-Odds.py) |
+| 10  | Finding 3-Digit Even Numbers   | LeetCode | Python   | [View](./day10/Finding-3-Digit-Even-Numbers.py) |
 
 
 
