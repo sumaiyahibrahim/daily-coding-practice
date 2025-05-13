@@ -23,3 +23,4 @@ class Solution(object):
             res = (res + v) % mod
         return res
  
+ 
