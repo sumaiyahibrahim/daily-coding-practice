@@ -22,3 +22,4 @@ class Solution(object):
         for v in nums:
             res = (res + v) % mod
         return res
+ 
