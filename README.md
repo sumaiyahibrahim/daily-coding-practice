@@ -29,6 +29,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 8   | Minimum Equal Sum of Two Arrays After Replacing Zeros | LeetCode | Python   | [View](./day08/Minimum-Equal-Sum-of-Two-Arrays-After-Replacing-Zeros.py) |
 | 9   | Three Consecutive Odds   | LeetCode | Python   | [View](./day09/Three-Consecutive-Odds.py) |
 | 10  | Finding 3-Digit Even Numbers   | LeetCode | Python   | [View](./day10/Finding-3-Digit-Even-Numbers.py) |
+| 11  | Total Characters in String After Transformations I   | LeetCode | Python   | [View](./day011/Total-Characters-in-String-After-Transformations.py) |
 
 
 
