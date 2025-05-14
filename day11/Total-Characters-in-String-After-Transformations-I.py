@@ -20,7 +20,7 @@ class Solution(object):
 
         res = 0
         for v in nums:
-            res = (res + v) % mod
+            res = (res + v) % mod 
         return res
  
  
