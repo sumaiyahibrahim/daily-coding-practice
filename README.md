@@ -31,10 +31,8 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 10  | Finding 3-Digit Even Numbers   | LeetCode | Python   | [View](./day10/Finding-3-Digit-Even-Numbers.py) |
 | 11  | Total Characters in String After Transformations I   | LeetCode | Python   | [View](./day11/Total-Characters-in-String-After-Transformations-I.py) |
 | 12   | Total Characters in String After Transformations II   | LeetCode | Python   | [View](./day12/Total-Characters-in-String-After-Transformations-II.py) |
-
+| 13   | Solved Longest Unequal Adjacent Groups Subsequence I   | LeetCode | Python   | [View](.day13/Longest-Unequal-Adjacent-Groups-Subsequence-I.py) |
 
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
-
-
