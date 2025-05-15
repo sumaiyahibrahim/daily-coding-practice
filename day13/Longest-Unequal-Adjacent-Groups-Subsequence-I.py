@@ -7,3 +7,4 @@ class Solution:
                 result.append(words[i])
                 last = groups[i] 
         return result
+  
