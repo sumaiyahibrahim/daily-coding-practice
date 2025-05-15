@@ -5,5 +5,5 @@ class Solution:
         for i in range(len(words)):
             if groups[i] != last:
                 result.append(words[i])
-                last = groups[i]
+                last = groups[i] 
         return result
