@@ -9,7 +9,7 @@ class Solution(object):
         return diffCount == 1
 
     def getWordsInLongestSubsequence(self, words, groups):
-        n = len(groups)
+        n = len(groups) 
         dp = [1] * n
         parent = [-1] * n
         maxi = 0
