@@ -32,7 +32,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 11  | Total Characters in String After Transformations I   | LeetCode | Python   | [View](./day11/Total-Characters-in-String-After-Transformations-I.py) |
 | 12   | Total Characters in String After Transformations II   | LeetCode | Python   | [View](./day12/Total-Characters-in-String-After-Transformations-II.py) |
 | 13   | Solved Longest Unequal Adjacent Groups Subsequence I   | LeetCode | Python   | [View](./day13/Longest-Unequal-Adjacent-Groups-Subsequence-I.py) |
-
+| 14   | Longest Unequal Adjacent Groups Subsequence II   | LeetCode | Python   | [View](./day14/Longest-Unequal-Adjacent-Groups-Subsequence-II.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
