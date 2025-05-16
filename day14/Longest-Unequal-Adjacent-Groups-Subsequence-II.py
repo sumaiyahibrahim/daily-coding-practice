@@ -22,7 +22,7 @@ class Solution(object):
                     parent[i] = j
             if dp[i] > maxi:
                 maxi = dp[i]
-        result = []
+        result = [] 
         for i in range(n):
             if dp[i] == maxi:
                 while i != -1:
