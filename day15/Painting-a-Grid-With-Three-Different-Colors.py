@@ -27,7 +27,7 @@ class Solution(object):
                     if pattern[i][k] == pattern[j][k]:
                         rowValid[i][j] = 0
         for col in range(2, n+1):
-            for i in good:
+            for i in good: 
                 total_ways = 0
                 for j in good:
                     if rowValid[i][j]:
