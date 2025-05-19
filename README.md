@@ -34,7 +34,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 13   | Solved Longest Unequal Adjacent Groups Subsequence I   | LeetCode | Python   | [View](./day13/Longest-Unequal-Adjacent-Groups-Subsequence-I.py) |
 | 14   | Longest Unequal Adjacent Groups Subsequence II   | LeetCode | Python   | [View](./day14/Longest-Unequal-Adjacent-Groups-Subsequence-II.py) |
 | 15   | Painting a Grid With Three Different Colors   | LeetCode | Python   | [View](./day15/Painting-a-Grid-With-Three-Different-Colors.py) |
-| 16   | Type of Triangle  | LeetCode | Python   | [View](./day16/Solved-Type-of-Triangle.py) |
+| 16   | Type of Triangle  | LeetCode | Python   | [View](./day16/Type-of-Triangle.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
