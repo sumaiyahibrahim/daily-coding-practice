@@ -35,7 +35,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 14   | Longest Unequal Adjacent Groups Subsequence II   | LeetCode | Python   | [View](./day14/Longest-Unequal-Adjacent-Groups-Subsequence-II.py) |
 | 15   | Painting a Grid With Three Different Colors   | LeetCode | Python   | [View](./day15/Painting-a-Grid-With-Three-Different-Colors.py) |
 | 16   | Type of Triangle  | LeetCode | Python   | [View](./day16/Type-of-Triangle.py) |
-| 17   | Zero Array Transformation I  | LeetCode | Python   | [View](./day17/Zero-Array-Transformation I.py) |
+| 17   | Zero Array Transformation I  | LeetCode | Python   | [View](./day17/Zero-Array-Transformation-I.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
