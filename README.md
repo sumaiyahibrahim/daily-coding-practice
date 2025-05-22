@@ -37,6 +37,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 16   | Type of Triangle  | LeetCode | Python   | [View](./day16/Type-of-Triangle.py) |
 | 17   | Zero Array Transformation I  | LeetCode | Python   | [View](./day17/Zero-Array-Transformation-I.py) |
 | 18   | Set Matrix Zeroes  | LeetCode | Python   | [View](./day18/Set-Matrix-Zeroes.py) |
+| 19   | Zero Array Transformation III   | LeetCode | Python   | [View](./day19/Zero-Array-Transformation-III.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
