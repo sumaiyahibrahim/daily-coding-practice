@@ -12,7 +12,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 ## 🛠 Platforms Used:
 - [LeetCode](https://leetcode.com/)
 
-## 🚀 Programming Languages:
+## 🚀 Programming Languages: 
 - Python 🐍
 
 ## 📅 Daily Logs:
