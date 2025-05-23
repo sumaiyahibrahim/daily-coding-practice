@@ -38,6 +38,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 17   | Zero Array Transformation I  | LeetCode | Python   | [View](./day17/Zero-Array-Transformation-I.py) |
 | 18   | Set Matrix Zeroes  | LeetCode | Python   | [View](./day18/Set-Matrix-Zeroes.py) |
 | 19   | Zero Array Transformation III   | LeetCode | Python   | [View](./day19/Zero-Array-Transformation-III.py) |
+| 20   | Find the Maximum Sum of Node Values  | LeetCode | Python   | [View](./day20/Find the Maximum-Sum-of-Node-Values.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
