@@ -41,6 +41,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 20   | Find the Maximum Sum of Node Values  | LeetCode | Python   | [View](./day20/Find-the-Maximum-Sum-of-Node-Values.py) |
 | 21   | Find Words Containing Character  | LeetCode | Python   | [View](./day21/Find-Words-Containing-Character.py) |
 | 22   | Longest Palindrome by Concatenating Two Letter Words  | LeetCode | Python   | [View](./day22/Longest-Palindrome-by-Concatenating-Two-Letter-Words.py) |
+| 23   | Largest Color Value in a Directed Graph  | LeetCode | Python   | [View](./day23/Largest-Color-Value-in-a-Directed-Graph.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
