@@ -44,6 +44,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 23   | Largest Color Value in a Directed Graph  | LeetCode | Python   | [View](./day23/Largest-Color-Value-in-a-Directed-Graph.py) |
 | 24   | Divisible and Non-divisible Sums Difference  | LeetCode | Python   | [View](./day24/Divisible-and-Non-divisible-Sums-Difference.py) |
 | 25   | Maximize the Number of Target Nodes After Connecting Trees I  | LeetCode | Python   | [View](./day25/Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-I.py) |
+| 26   | Maximize the Number of Target Nodes After Connecting Trees II  | LeetCode | Python   | [View](./day26/Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-II.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
