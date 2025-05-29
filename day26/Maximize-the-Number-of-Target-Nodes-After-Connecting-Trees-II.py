@@ -4,7 +4,7 @@ class Solution(object):
         adj = [[] for _ in range(n)]
         for u, v in edges:
             adj[u].append(v)
-            adj[v].append(u)
+            adj[v].append(u) 
         return adj
     def dfsColor(self, adj, u, parent, color, isA):
         if color[u] == 0:
