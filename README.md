@@ -46,6 +46,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 25   | Maximize the Number of Target Nodes After Connecting Trees I  | LeetCode | Python   | [View](./day25/Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-I.py) |
 | 26   | Maximize the Number of Target Nodes After Connecting Trees II  | LeetCode | Python   | [View](./day26/Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-II.py) |
 | 27   | Find Closest Node to Given Two Nodes  | LeetCode | Python   | [View](./day27/Find-Closest-Node-to-Given-Two-Nodes.py) |
+| 28   | Distribute Candies Among Children II  | LeetCode | Python   | [View](./day28/Distribute-Candies-Among-Children-II.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
