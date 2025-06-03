@@ -48,7 +48,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 27   | Find Closest Node to Given Two Nodes  | LeetCode | Python   | [View](./day27/Find-Closest-Node-to-Given-Two-Nodes.py) |
 | 28   | Distribute Candies Among Children II  | LeetCode | Python   | [View](./day28/Distribute-Candies-Among-Children-II.py) |
 | 29   | Candy  | LeetCode | Python   | [View](./day29/Candy.py) |
-
+| 30   | Maximum Candies You Can Get from Boxes  | LeetCode | Python   | [View](./day30/Maximum-Candies-You-Can-Get-from-Boxes.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
