@@ -9,7 +9,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 - Improve problem-solving and coding fluency 
 - Document my learning progress and logic
  
-## 🛠 Platforms Used:
+## 🛠 Platforms Used: 
 - [LeetCode](https://leetcode.com/)
 
 ## 🚀 Programming Languages:  
