@@ -53,6 +53,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 32   | Lexicographically Smallest Equivalent String  | LeetCode | Python   | [View](./day32/Lexicographically-Smallest-Equivalent-String.py) |
 | 33   | Using a Robot to Print the Lexicographically Smallest String  | LeetCode | Python   | [View](./day33/Using-a-Robot-to-Print-the-Lexicographically-Smallest-String.py) |
 | 34   | Lexicographically Minimum String After Removing Stars  | LeetCode | Python   | [View](./day34/Lexicographically-Minimum-String-After-Removing-Stars.py) |
+| 35   | Lexicographical Numbers  | LeetCode | Python   | [View](./day35/Lexicographical-Numbers.py) |
 ---
 
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
