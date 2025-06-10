@@ -10,7 +10,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 - Document my learning progress and logic
  
 ## 🛠 Platforms Used: 
-- [LeetCode]([[https://leetcode.com/](https://leetcode.com/u/RYS4F5qzcp/)])
+- [LeetCode](https://leetcode.com/u/RYS4F5qzcp/)
 
 ## 🚀 Programming Languages:  
 - Python 🐍
