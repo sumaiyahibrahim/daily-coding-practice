@@ -56,5 +56,6 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 35   | Lexicographical Numbers  | LeetCode | Python   | [View](./day35/Lexicographical-Numbers.py) |
 | 36   | K-th Smallest in Lexicographical Order  | LeetCode | Python   | [View](./day36/K-th-Smallest-in-Lexicographical-Order.py) |
 | 37   | Maximum Difference Between Even and Odd Frequency I  | LeetCode | Python   | [View](./day37/Maximum-Difference-Between-Even-and-Odd-Frequency-I.py) |
+| 38   | Maximum Difference Between Even and Odd Frequency II  | LeetCode | Python   | [View](./day38/Maximum-Difference-Between-Even-and-Odd-Frequency-II.py) |
 ---
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
