@@ -58,6 +58,8 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 37   | Maximum Difference Between Even and Odd Frequency I  | LeetCode | Python   | [View](./day37/Maximum-Difference-Between-Even-and-Odd-Frequency-I.py) |
 | 38   | Maximum Difference Between Even and Odd Frequency II  | LeetCode | Python   | [View](./day38/Maximum-Difference-Between-Even-and-Odd-Frequency-II.py) |
 | 39   | Maximum Difference Between Adjacent Elements in a Circular Array  | LeetCode | Python   | [View](./day39/Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.py) |
+| 40   | Minimize the Maximum Difference of Pairs  | LeetCode | Python   | [View](./day40/Minimize-the-Maximum-Difference-of-Pairs.py) |
+| 41   | Max Difference You Can Get From Changing an Integer  | LeetCode | Python   | [View](./day41/Max-Difference-You-Can-Get-From-Changing-an-Integer.py) |
 ---
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
 
