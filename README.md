@@ -60,6 +60,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 39   | Maximum Difference Between Adjacent Elements in a Circular Array  | LeetCode | Python   | [View](./day39/Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.py) |
 | 40   | Minimize the Maximum Difference of Pairs  | LeetCode | Python   | [View](./day40/Minimize-the-Maximum-Difference-of-Pairs.py) |
 | 41   | Max Difference You Can Get From Changing an Integer  | LeetCode | Python   | [View](./day41/Max-Difference-You-Can-Get-From-Changing-an-Integer.py) |
+| 42   | Maximum Difference Between Increasing Elements  | LeetCode | Python   | [View](./day42/Maximum-Difference-Between-Increasing-Elements.py) |
 ---
 Feel free to follow or star ⭐ this repository to track the progress or start your own journey!
 
