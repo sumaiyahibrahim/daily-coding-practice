@@ -62,5 +62,5 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 41   | Max Difference You Can Get From Changing an Integer  | LeetCode | Python   | [View](./day41/Max-Difference-You-Can-Get-From-Changing-an-Integer.py) |
 | 42   | Maximum Difference Between Increasing Elements  | LeetCode | Python   | [View](./day42/Maximum-Difference-Between-Increasing-Elements.py) |
 | 43   | Count the Number of Arrays with K Matching Adjacent Elements  | LeetCode | Python   | [View](./day43/Count-the-Number-of-Arrays-with-K-Matching-Adjacent-Elements.py) |
-| 44   | Divide Array Into Arrays With Max Difference  | LeetCode | Python   | [View](./day29/Candy.py) |
+| 44   | Divide Array Into Arrays With Max Difference  | LeetCode | Python   | [View](./day44/Divide-Array-Into-Arrays-With-Max-Difference.py) |
 ---
