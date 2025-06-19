@@ -6,7 +6,7 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 ## 🔥 Goals:  
 - Solve at least 1 coding problem daily         
 - Learn new algorithms and data structures  
-- Improve problem-solving and coding fluency   
+- Improve problem-solving and coding fluency    
 - Document my learning progress and logic
   
 ## 🛠 Platforms Used:  
