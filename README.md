@@ -63,4 +63,5 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 42   | Maximum Difference Between Increasing Elements  | LeetCode | Python   | [View](./day42/Maximum-Difference-Between-Increasing-Elements.py) |
 | 43   | Count the Number of Arrays with K Matching Adjacent Elements  | LeetCode | Python   | [View](./day43/Count-the-Number-of-Arrays-with-K-Matching-Adjacent-Elements.py) |
 | 44   | Divide Array Into Arrays With Max Difference  | LeetCode | Python   | [View](./day44/Divide-Array-Into-Arrays-With-Max-Difference.py) |
+| 45   | Partition Array Such That Maximum Difference Is K  | LeetCode | Python   | [View](./day45/Partition-Array-Such-That-Maximum-Difference-Is-K.py) |
 ---
