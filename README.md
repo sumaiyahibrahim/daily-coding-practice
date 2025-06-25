@@ -68,6 +68,6 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 47   | Minimum Deletions to Make String K-Special  | LeetCode | Python   | [View](./day47/Minimum-Deletions-to-Make-String-K-Special.py) |
 | 48   | Divide a String Into Groups of Size k  | LeetCode | Python   | [View](./day48/Divide-a-String-Into-Groups-of-Size-k.py) |
 | 49   | Sum of k-Mirror Numbers  | LeetCode | Python   | [View](./day49/Sum-of-k-Mirror-Numbers.py) |
-| 50   | Divide a String Into Groups of Size k  | LeetCode | Python   | [View](./day48/Divide-a-String-Into-Groups-of-Size-k.py) |
+| 50   | Find All K-Distant Indices in an Array  | LeetCode | Python   | [View](./day50/Find-All-K-Distant-Indices-in-an-Array.py) |
 | 51   | Divide a String Into Groups of Size k  | LeetCode | Python   | [View](./day48/Divide-a-String-Into-Groups-of-Size-k.py) |
 ---
