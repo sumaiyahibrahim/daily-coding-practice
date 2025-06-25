@@ -69,5 +69,5 @@ This repo tracks my journey as I solve one (or more) coding problems every day t
 | 48   | Divide a String Into Groups of Size k  | LeetCode | Python   | [View](./day48/Divide-a-String-Into-Groups-of-Size-k.py) |
 | 49   | Sum of k-Mirror Numbers  | LeetCode | Python   | [View](./day49/Sum-of-k-Mirror-Numbers.py) |
 | 50   | Find All K-Distant Indices in an Array  | LeetCode | Python   | [View](./day50/Find-All-K-Distant-Indices-in-an-Array.py) |
-| 51   | Divide a String Into Groups of Size k  | LeetCode | Python   | [View](./day48/Divide-a-String-Into-Groups-of-Size-k.py) |
+| 51   | Kth Smallest Product of Two Sorted Arrays  | LeetCode | Python   | [View](./day51/Kth-Smallest-Product-of-Two-Sorted-Arrays.py) |
 ---
